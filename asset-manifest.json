@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/tip-calculator-react/static/js/main.6318dc8d.js",
+    "static/media/logo.svg": "/tip-calculator-react/static/media/logo.3cc0528bd46321d63d85702006069614.svg",
+    "index.html": "/tip-calculator-react/index.html",
+    "main.6318dc8d.js.map": "/tip-calculator-react/static/js/main.6318dc8d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6318dc8d.js"
+  ]
+}
